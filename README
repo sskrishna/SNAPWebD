@@ -1,1 +1,15 @@
-This is Project is a type of Web Desktop which is used to NFS logical volumes
+This product is a kind of web desktop.
+
+The Web Desktop, which is a free and open source software, will allow users of such organizations 
+to access their home directories and remote applications through the web browser.
+
+SNAPWebD is a Web Desktop for the environments consist of NFS mounted logical volumes of home 
+directories of users authenticated using LDAP.  The web server transparently mounts the NFS 
+partitions as needed and provides access to the Files and applications of the organization 
+to the users through the web browser. 
+
+The advantage of SNAPWebD tool is that the client system does not need any additional
+software to be installed. The fact that the Firewalls of most organizations allow web
+access and none other is also a motivation for the development of the web desktop.
+No additional ports need to be opened up in the Firewall mitigating the chances of
+attacks through security loopholes in other softwares.
