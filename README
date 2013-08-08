@@ -13,3 +13,16 @@ software to be installed. The fact that the Firewalls of most organizations allo
 access and none other is also a motivation for the development of the web desktop.
 No additional ports need to be opened up in the Firewall mitigating the chances of
 attacks through security loopholes in other softwares.
+
+------------------------------------------------------------------------------------------------
+
+The "SNAPWebD Documentation" file consist of the full documentation and installation 
+of the SNAPWebD product.
+
+The "SNAPWebD presentation" file consist of a overview about the implimentation of SNAPWebD 
+product.
+
+The "SNAPWebD_SouceCode.tar.gz" file consist of source code of this product(Java Server Pages).
+
+
+------------------------------------------------------------------------------------------------
